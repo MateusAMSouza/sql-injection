@@ -91,6 +91,10 @@ https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/sql-injection-a
 
 https://nordvpn.com/blog/what-is-sql-injection/
 
+https://owasp.org/www-community/attacks/SQL_Injection
+
+https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
+
 ## Youtube videos
 
 What is SQL - https://www.youtube.com/watch?v=et1n7-UxI2M
